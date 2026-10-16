@@ -13,7 +13,7 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
 
 html {
   font-size: 100%;
@@ -22,7 +22,7 @@ html {
 
 body {
   background: #aeaeb1;
-  font-family: -system-ui;
+  font-family: -system-ui, "PT Serif", serif;
   color: #ef3d23;
   line-height: 1.7;
   font-weight: 400;
@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui;
+  font-family: -system-ui, "PT Serif", serif;
   color: $darkerGray;
   font-weight: bold;
 
