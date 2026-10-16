@@ -18,8 +18,12 @@
 html,
 body,
 body *,
-button,
-textarea {
+header,
+nav,
+footer,
+.post-title,
+.post-content,
+.site-title {
   font-family: "PT Serif", serif !important;
 }
 
