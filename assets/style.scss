@@ -20,7 +20,9 @@ body,
 body *,
 header,
 nav,
-footer {
+.page.title,
+.page.content,
+.site-title {
   font-family: "PT Serif", serif !important;
 }
 
